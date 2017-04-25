@@ -1,0 +1,46 @@
+{
+  "inventory": {
+    "inventory": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "name": "test",
+  "uuid": "be4158f9-6e83-40fd-a52a-5e9c8d8901f8",
+  "direction": "NONE",
+  "position": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

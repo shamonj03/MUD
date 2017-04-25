@@ -1,0 +1,46 @@
+{
+  "inventory": {
+    "inventory": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "name": "joe",
+  "uuid": "4468e4a0-d988-4b34-87b1-8d2b7b56b121",
+  "direction": "EAST",
+  "position": {
+    "x": 8.0,
+    "y": 12.0,
+    "z": 0.0
+  }
+}
